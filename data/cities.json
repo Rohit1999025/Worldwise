@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "id": "4fb6",
+      "cityName": "Sohna",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-08-11T17:21:49.016Z",
+      "notes": "bibnsv",
+      "position": {
+        "lat": "28.413413358906407",
+        "lng": "77.14599609375001"
+      }
+    }
+  ]
+}
